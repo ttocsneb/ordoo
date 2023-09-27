@@ -1,0 +1,14 @@
+[package]
+name = "ordoo"
+version = "0.1.0"
+edition = "2021"
+
+description = "Macro to allow early exit of control flow in Options and Results"
+license = "MIT"
+repository = "https://github.com/ttocsneb/ordoo"
+authors = ["Benjamin Jacobs <ttocsneb@benjaminja.info>"]
+categories = ["development-tools"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
