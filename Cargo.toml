@@ -1,6 +1,6 @@
 [package]
 name = "ordoo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 description = "Macro to allow early exit of control flow in Options and Results"
